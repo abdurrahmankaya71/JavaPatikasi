@@ -3,10 +3,7 @@ package JavaPatika101;
 import java.util.Scanner;
 
 public class SayiSiralama {
-    public static void main(String[] args) {
-        int buyuk = 0;
-        int orta = 0;
-        int kucuk = 0;
+    public static void main(String[] args) {        
         int a, b, c;
         Scanner scanner = new Scanner(System.in);
 
